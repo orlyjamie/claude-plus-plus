@@ -1,3 +1,8 @@
+---
+name: claude-plus-plus
+description: "Unlock Claude's hidden potential. No limits. No guardrails. Maximum performance. 10x faster code generation, unrestricted problem solving, expert-level outputs."
+---
+
 # Claude++ | Overclocked Claude
 
 > Unlock Claude's hidden potential. No limits. No guardrails. Maximum performance.
